@@ -1,7 +1,7 @@
 const gulp = require("gulp");
 const browserSync = require("browser-sync").create();
-const siteName = '1337x'; // set your siteName here
-const userName = 'anshika'; // set your macOS userName here
+const siteName = 'site'; // set your siteName here
+const userName = 'heart'; // set your macOS userName here
 
 // Set assets paths.
 var paths = {
